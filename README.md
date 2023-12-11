@@ -3,7 +3,7 @@ Version, Archive, Document, Visualize, Compare your code
 
 CodeChronicle was borne out of a need to be able to compare versions of reinforcement learning multifile projects
 Your store your recorded files into a "frozen zips" folder and within this there are a series of zips containing all the relevant files you are making changes to.
-Yu can comment on each version, compare code between versiosn and visualise videos of the end prducts
+You can comment on each version, compare code between versions and visualise videos of the end products
 
 
 ![Screenshot from 2023-09-27 22-48-49](https://github.com/sujitvasanth/CodeChronicle/assets/18464444/7fad4727-8b46-463d-808f-0c7aa9c7803b)
